@@ -18,5 +18,4 @@ Dark ``discord.js`` Developer
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/652483711564120095?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/652483711564120095)
-2
+[![Discord Presence](https://lanyard.cnrad.dev/api/652483711564120095)](https://discord.com/users/652483711564120095)
