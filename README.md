@@ -9,7 +9,7 @@ Dark ``discord.js`` Developer
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkichJs&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xota6bi4h)](https://github.com/Xota6bi4h/github-readme-stats)
 
 ---
 
